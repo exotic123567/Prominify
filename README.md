@@ -1,4 +1,4 @@
-"# Prominify" 
+# Prominify
 
 This Android app allows users to remove backgrounds from portrait images using advanced machine learning models from <a href="https://developers.google.com/ml-kit/vision/selfie-segmentation">Google ML dev kit</a> . The app processes images and creates a mask to isolate the subject from the background, providing a clean and transparent background for the portrait.
 
